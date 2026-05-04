@@ -6,3 +6,4 @@ except Exception as error:
     print(error)
     
 print("hello")
+print("hi")
